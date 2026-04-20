@@ -25,6 +25,10 @@ A simple and secure Password Manager built using Python that helps users generat
 ## 📅 Progress
 Day 29 of #100DaysOfCode
 
+## ⚠️ Note
+This project is built for learning purposes. 
+Advanced security features like encryption are not yet implemented.
+
 ## 💡 Future Improvements
 - Add encryption for better security
 - Search saved passwords
